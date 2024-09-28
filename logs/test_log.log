@@ -1,0 +1,18 @@
+2024-09-28 08:26:17,304 - log_bot - INFO - Starting Log Test
+2024-09-28 08:26:17,304 - log_bot - WARNING - This is a warning
+2024-09-28 08:26:17,304 - log_bot - WARNING - This is an error
+2024-09-28 08:26:17,304 - log_bot - CRITICAL - This is a critical error
+2024-09-28 08:27:07,912 - log_bot - WARNING - This is a warning
+2024-09-28 08:27:07,913 - log_bot - CRITICAL - This is a critical error
+2024-09-28 08:27:14,934 - log_bot - INFO - Starting Log Test
+2024-09-28 08:27:14,934 - log_bot - WARNING - This is a warning
+2024-09-28 08:27:14,935 - log_bot - ERROR - This is an error
+2024-09-28 08:27:14,935 - log_bot - CRITICAL - This is a critical error
+2024-09-28 08:29:49,729 - log_bot - INFO - Starting Log Test
+2024-09-28 08:29:49,730 - bot_logger - INFO - Starting Log Test
+2024-09-28 08:29:49,730 - log_bot - WARNING - This is a warning
+2024-09-28 08:29:49,730 - bot_logger - WARNING - This is a warning
+2024-09-28 08:29:49,730 - log_bot - ERROR - This is an error
+2024-09-28 08:29:49,730 - bot_logger - ERROR - This is an error
+2024-09-28 08:29:49,730 - log_bot - CRITICAL - This is a critical error
+2024-09-28 08:29:49,730 - bot_logger - CRITICAL - This is a critical error
