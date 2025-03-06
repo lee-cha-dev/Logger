@@ -34,7 +34,7 @@ To use this logger in your project:
 git clone https://github.com/lee-cha-dev/Logger.git
 
 # Copy the files to your project
-cp enterprise-logger/*.py /path/to/your/project/
+cp Logger/*.py /path/to/your/project/
 ```
 
 ## Basic Usage
