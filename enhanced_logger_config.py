@@ -1,8 +1,20 @@
+"""Configuration management for enterprise logger.
+
+This module provides enhanced configuration capabilities with support for YAML
+files and environment variables, allowing for flexible configuration across
+different deployment environments.
+"""
+
 import os
 import yaml
 
 class EnhancedLoggerConfig:
-    """Enhanced configuration system with environment variable support"""
+    """Enhanced configuration system with environment variable support.
+
+    This class provides methods to load and merge configuration from multiple
+    sources including default values, YAML configuration files, and environment
+    variables, with later sources taking precedence over earlier ones.
+    """
 
     @staticmethod
     def get_config(config_path=None):
